@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="Basic_layout.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Collage life</title>
+</head>
+
+<body>
+    <h1>My collage life and my friends</h1>
+    <p>my collage life not so wonderfull but i have some such memories with my friends which i can't forgot, in collage
+        i made many friends but some of them are very spacial Rahul,Neha,Arpit and shristi this are my best frind they
+        help me a lot in my entire collage journey.</p>
+    <img src="img/20200307_122000.jpg" alt="Collage holi" width="200px" height="300px">
+    <img src="img/IMG_20190328_155419.jpg" alt="Rahul" width="200px" height="300px">
+    <img src="img/IMG_20190329_143837.jpg" alt="" width="500px" height="300px">
+    <img src="img/IMG_20190511_190032.jpg" alt="" width="500px" height="300px">
+    <img src="img/IMG_20190520_060914.jpg" alt="" width="200px" height="400px">
+
+    <div>
+        <table>
+            <thead>
+                <tr>
+                    <th colspan="2">The table header</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>The table body</td>
+                    <td>with two columns</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+</body>
+
+</html>
